@@ -99,6 +99,7 @@ colorscheme desert
 "run Man.vim
 source $VIMRUNTIME/ftplugin/man.vim
 
-
+"let g:enable_template=1
+"let g:template_dir = "~/.vim/templates"
 
 

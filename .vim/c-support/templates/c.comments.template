@@ -63,6 +63,11 @@
  *
  * =====================================================================================
  */
+#ifndef __|BASENAME|_H__
+#define __|BASENAME|_H__
+
+
+#endif
 == ENDTEMPLATE ==
 
 == LIST: comments_c_sections == hash ==
